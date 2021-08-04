@@ -1,0 +1,2 @@
+# Book_Shop
+Book shop software is designed to help book shop retailers/wholesalers and appropriately map their needs. It is a perfect fit for your book store and store chain. It reduces the store's maintenance complexity, as well as managing the inventory level for keeping records of your books.          This brings more revenue and customer stress. This is the way, which establishes your business as a strong brand, which aims to maintain a regular customer base in addition to selling products to strengthen the bond with your customers.
